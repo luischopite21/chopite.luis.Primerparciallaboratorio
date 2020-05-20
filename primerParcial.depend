@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1589985518 source:c:\users\tamura\desktop\clases de programacion\primerparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"datawherehouse.h"
+
+1589983883 c:\users\tamura\desktop\clases de programacion\primerparcial\datawherehouse.h
+
+1589983190 c:\users\tamura\desktop\clases de programacion\primerparcial\funciones.h
+	"datawherehouse.h"
+
+1589983985 source:c:\users\tamura\desktop\clases de programacion\primerparcial\funciones,c.c
+
